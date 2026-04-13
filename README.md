@@ -97,13 +97,13 @@ This approach ensures:
 
 ## 📊 Key Metrics (KPI)
 
-- Revenue: 10,644,560.42  
+- Revenue: 10.64m  
 - Orders: 20,728  
 - Average Order Value (AOV): 513.54  
 - Number of Returns: 5,172  
 - Return Value: 896,812.49  
 
-Return rate (value-based): ~8.4%
+Return rate (based on revenue): ~8.4%
 
 ---
 
